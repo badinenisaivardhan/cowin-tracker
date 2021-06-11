@@ -16,5 +16,5 @@ If You Need Only Free Vaccine Update Then Add this line in if block:\
 \
 ![Capture](https://user-images.githubusercontent.com/24708206/121633390-57b52700-caa0-11eb-8a37-5f110977a07a.JPG)\
 \
-Stay Home .. Stay Safe\
+Stay Home .. Stay Safe
 
