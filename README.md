@@ -9,5 +9,12 @@ Step 4 : Schedule It in A Widnows Server Using Task Scheduler, Run The Script Fo
 Step 5 : Book Slot And Get Vaccinated..!!\
 #####\
 \
+Note : The Default Code Give Us All Update Including Free,Paid, Covaxin, Covisheld, Sputnik V , Dose1 , Dose 2 Notifications\
+\
+If You Need Only Free Vaccine Update Then Add this line in if block:\
+($response.centers[$i].sessions[$j].available_capacity -gt 0)-and($response.centers[$i].fee_type -ne 'Paid')\
+\
+![Capture](https://user-images.githubusercontent.com/24708206/121633390-57b52700-caa0-11eb-8a37-5f110977a07a.JPG)\
+\
 Stay Home .. Stay Safe\
 
